@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Food List</string>
+    <string name="add_food">Thêm món ăn</string>
+    <string name="edit_food">Chi tiết món ăn</string>
+    <string name="delete_food">Xóa món ăn</string>
+    <string name="food_name_hint">Tên món</string>
+    <string name="food_price_hint">Giá</string>
+    <string name="food_unit_hint">Đơn vị</string>
+    <string name="save">Lưu</string>
+    <string name="back">Quay lại</string>
+    <string name="delete">Xóa</string>
+    <string name="confirm_delete">Xác nhận xóa</string>
+    <string name="confirm_delete_message">Bạn có chắc muốn xóa món ăn này?</string>
+    <string name="cancel">Hủy</string>
+    <string name="save_success">Đã lưu thành công</string>
+    <string name="delete_success">Đã xóa thành công</string>
+    <string name="fill_all_fields">Vui lòng điền đầy đủ thông tin</string>
+    <string name="permission_needed">Cần cấp quyền truy cập ảnh để chọn ảnh</string>
+    <string name="food_image_desc">Hình ảnh món ăn</string>
+    <string name="food_image_url_hint">Đường dẫn hình ảnh</string>
+</resources>
