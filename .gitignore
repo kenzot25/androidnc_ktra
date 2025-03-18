@@ -1,0 +1,59 @@
+# Ignore Android build files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.jar
+*.so
+*.o
+*.obj
+*.war
+*.ear
+
+# Gradle files
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.idea/
+
+# Build directories
+/build/
+app/build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Kotlin-specific
+*.kotlin_module
+
+# Log files
+*.log
+
+# Git files
+*.iml
+*.hprof
+
+# Dependency caches
+/.gradle/
+/captures/
+/outputs/
+/intermediates/
+
+# Misc
+gen/
+bin/
+tmp/
+
+# Ignore crash reports
+crashlytics-build.properties
+
+# Keystore files (if any)
+*.jks
+*.keystore
